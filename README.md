@@ -1,3 +1,3 @@
 # Latihan-Pweb-MySQL
 
-## Theresia Nawangsih / 5025201144 / Pweb-B
+## Aqil Ramadhan Hadiono / 5025201261 / Pweb-B
